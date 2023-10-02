@@ -1,1 +1,1 @@
-# aplacions.web
+# aplicacions.web
