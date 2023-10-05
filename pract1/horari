@@ -1,0 +1,63 @@
+<head>
+      <link rel="stylesheet" href="style.css">
+    </head>
+    <thead>
+
+<table>
+      <tr>
+        <td style="padding: 7px;">HORARI</td>
+        <th colspan="6">HORARI SMX GRUP B</th>
+      </tr>
+    </thead>
+      <tr>
+        <td>8:00-8:50</td>
+        <td>dilluns</td>
+        <td>dimarts</td>
+        <td>dimecres</td>
+        <td>dijous</td>
+        <td>divendres</td>
+      </tr>
+      <tr>
+        <td>8:50-9:40</td>
+        <td>Serveis</td>
+        <td>Seguretat</td>
+        <td>Serveis</td>
+        <td>Sistemes</td>
+        <td>Serveis</td>
+      </tr>
+      <tr>
+        <td>9:40-10:00</td>
+        <td colspan="5"> <center>pati </center> </td>
+      </tr>
+        <td>10:00-10:55</td>
+        <td rowspan="2">Seguretat</td>
+        <td rowspan="2">Aplicacions</td>
+        <td rowspan="2">Aplicacions</td>
+        <td>Sistemes</td>
+        <td>Serveis</td>
+       
+        <tr>
+          <td>10:55-11:50
+            <td>Serveis</td>
+            <td>Sistemes</td>
+          </td>
+        </tr>
+
+        <tr>
+          <td>11:50-12:10</td>
+          <td colspan="7"><center>pati </center></td>
+        </tr>
+        <tr>
+          <td>12:10-13:05</td>
+          <td>EIE</td>
+          <td rowspan="2"><center>EIE</center></td>
+          <td rowspan="2"><center>Sistemes</center></td>
+          <td rowspan="2">Seguretat</td>
+          <td rowspan="2"><center>Sistemes</center></td>
+        </tr>
+          <tr>
+            <td>13:05-14:00</td>
+            <td>Web</td>
+          </tr>
+  </table> 
+  </tr>
