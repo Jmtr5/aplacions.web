@@ -1,3 +1,10 @@
-h1{
- font-size: 200px;
+table,
+td {
+  border: 1px solid #333;
 }
+
+thead,
+tfoot {
+  color: #000000;
+}
+
