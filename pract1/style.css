@@ -1,6 +1,6 @@
 table,
 td {
-  border: 1px solid #333;
+  border: 1.5px solid #333;
 }
 
 thead,
@@ -8,3 +8,41 @@ tfoot {
   color: #000000;
 }
 
+.assig_serveis{
+  color: #0ea54d;
+  font-weight: 800;
+  background-color: #a4e5a2;
+}
+
+.assig_seguretat{
+  color: #e70a0a;
+  font-weight: 800;
+  background-color: #ff9696;
+}
+
+.assig_aplicacions{
+  color: #eb13b5;
+  font-weight: 800;
+  background-color: #ff9eea;
+}
+
+.assig_sistemes{
+  color: #4400ff;
+  background-color: #b9b1ff;
+}
+
+.assig_eie{
+  color: #00f7ff;
+  font-weight: 800;
+  background-color: #b3f6ff;
+}
+
+.assig_web{
+  color: #ff5101;
+  font-weight: 800;
+  background-color: #f7c78a;
+}
+
+.class_pati{
+  background-color: #9c9292;
+}
