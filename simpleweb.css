@@ -6,3 +6,9 @@ img{
 h4{
     font-weight: 300;
 }
+
+div{
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(255, 255, 1);
+  }
