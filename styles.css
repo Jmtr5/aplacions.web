@@ -1,0 +1,96 @@
+.page-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 39px;
+}
+
+img{
+    margin: 0px;
+    padding: 0px;
+}
+
+img.search{
+    width: 36px;
+    height: 36px;
+    flex-shrink: 0;
+    margin-left: 0px;
+}
+
+
+.menu {
+    display: flex;
+    list-style-type: none;
+    margin: 39px;
+    padding: 10;
+    font-size: 20px;
+    text-align: center;
+}
+
+.menu li {
+    margin-right: 150px;
+}
+
+.Home{
+    color: #ffffff;
+}
+
+.signup-button {
+    background-color: #79E777;
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 123px;
+    height: 36px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    border: 1px solid #FFF;
+}
+
+.signup-button:hover {
+    background-color: #45a049;
+}
+
+body{
+    background-color: #79E777;
+    margin: auto;
+}
+
+div{
+    margin: 0px;
+}
+
+div.image-container {
+    margin: 2px;
+}
+
+
+h1{
+    color: #41403c;
+    font-size: 150px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 76.3%; 
+    letter-spacing: -4.5px;
+    margin-left: 200px;
+    margin-bottom: -110px;
+}
+
+h1.marketing{
+    color: #fff;
+}
+
+p{
+    margin-top: 140px;
+    margin-left: 205px;
+    margin-bottom: -140px;
+}
+
+.text-container{
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
