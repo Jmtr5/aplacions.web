@@ -10,21 +10,22 @@ img{
     padding: 0px;
 }
 
-img.search{
-    width: 36px;
-    height: 36px;
-    flex-shrink: 0;
-    margin-left: 0px;
+.search{
+    display: flex;
+    justify-content: flex-end;
+    width: 15%;
 }
 
 
 .menu {
     display: flex;
     list-style-type: none;
+    font-family: 'Raleway', sans-serif;
     margin: 39px;
     padding: 10;
     font-size: 20px;
     text-align: center;
+    color: #686868;
 }
 
 .menu li {
@@ -32,13 +33,17 @@ img.search{
 }
 
 .Home{
+    margin-left: 400px;
     color: #ffffff;
+    border-bottom: 1px solid #fff;
+    font-family: 'Raleway', sans-serif;
 }
 
 .signup-button {
+    margin-right: 50px;
     background-color: #79E777;
     color: #FFF;
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -83,14 +88,78 @@ h1.marketing{
     color: #fff;
 }
 
+div.foto-vieja{
+    padding: 0px;
+    display: flex;
+    width: 60%;
+    justify-content: right;
+}
 p{
     margin-top: 140px;
     margin-left: 205px;
     margin-bottom: -140px;
 }
 
+.container{
+    display: flex;
+}
+.get-started{
+    margin-left: 190px;
+    margin-top: 25px;
+    text-align: center;
+    display: flex;
+    width: 211px;
+    height: 66px;
+    padding: 24px 57px 24px 40px;
+    align-items: flex-start;
+    gap: 10px;
+    flex-shrink: 0;
+    border-radius: 40px;
+    border: 1px solid #000;
+    background: #79E777;
+    color: #000;
+    font-family: 'Raleway', sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px;
+}
+
+.get-started:hover{
+    background-color: #45a049;
+}
+.explore-more{
+    margin-top: 25px;
+    color: #FFF;
+    font-family: 'Raleway', sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px;
+    display: flex;
+    width: 211px;
+    height: 66px;
+    padding: 24px 57px 24px 40px;
+    align-items: flex-start;
+    gap: 10px;
+    flex-shrink: 0;
+    border-radius: 40px;
+    background: #000;
+}
+
+.explore-more:hover{
+    background-color: #3d3d3d;
+}
+
 .text-container{
     margin: 0;
     padding: 0;
     line-height: 1.5;
+}
+
+
+
+footer{
+    margin-top: 150px;
+    margin-left:232px;
 }
