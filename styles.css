@@ -86,18 +86,14 @@ h1{
 
 h1.marketing{
     color: #fff;
+    
 }
 
-div.foto-vieja{
-    padding: 0px;
-    display: flex;
-    width: 60%;
-    justify-content: right;
-}
 p{
-    margin-top: 140px;
+    margin-top: 0px;
     margin-left: 205px;
-    margin-bottom: -140px;
+    margin-bottom: -5px;
+    font-family: 'Roboto', sans-serif;
 }
 
 .container{
@@ -105,7 +101,7 @@ p{
 }
 .get-started{
     margin-left: 190px;
-    margin-top: 25px;
+    margin-top: 10px;
     text-align: center;
     display: flex;
     width: 211px;
@@ -129,7 +125,7 @@ p{
     background-color: #45a049;
 }
 .explore-more{
-    margin-top: 25px;
+    margin-top: 10px;
     color: #FFF;
     font-family: 'Raleway', sans-serif;
     font-size: 22px;
@@ -155,11 +151,52 @@ p{
     margin: 0;
     padding: 0;
     line-height: 1.5;
+
 }
 
 
+.imagen-movil{
+    margin: 0%;
+    margin-top: 50px;
+    margin-right: 120px;
+    margin-left: 31px;
+}
+
+img.group{
+    margin-left: -2000px;
+
+}
+
+img.group2{
+    margin-left: 820px;
+}
+
+img.group3{
+    margin-left: 100px;
+}
+
+img.group4{
+    margin-left: 100px;
+}
+
+img.group5{
+    margin-right: 100px;
+}
+
+img.group6{
+    margin-right: 10px;
+}
+
+img.group7{
+    margin-left: 1900px;
+    margin-top: -40px;
+}
+
+img.group1:hover{
+    background-color: #69956814;
+}
 
 footer{
-    margin-top: 150px;
-    margin-left:232px;
+    margin: auto;
 }
+
